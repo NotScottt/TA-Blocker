@@ -1,14 +1,12 @@
-# News-Blocker bei Google
+## News Blocker for Google
 
-## Nutzen 
-Dieses JavaScript dient dazu, Elemente bestimmter Nachrichtenseiten zu entfernen. <br>
-Bislang habe ich aus persönlichen Gründen nur die Thüringer Allgemine blockiert.
-Dies lässt sich allerdings leicht erweitern.
+### Purpose
+This JavaScript script is designed to remove elements from specific news websites. So far, I have only blocked the Thüringer Allgemeine for personal reasons. However, it can be easily extended to block other sites.
 
-## Erweiterbarkeit
+### Extensibility
 ***ToDo***
 
-## Installation (für Chrome)
-1. Lade dir die [Erweiterung für JavaScript](https://chromewebstore.google.com/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk?hl=de&utm_source=ext_sidebar]) runter.
-2. Füge den Inhalt des blocker.js files ein.
-3. Klicke oben links auf save
+### Installation (for Chrome)
+1. Download the [JavaScript extension for Chrome](https://chromewebstore.google.com/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk?hl=de&utm_source=ext_sidebar).
+2. Insert the contents of the `blocker.js` file.
+3. Click on "Save" in the top left corner.
